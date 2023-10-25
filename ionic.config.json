@@ -1,0 +1,8 @@
+{
+  "name": "PMM-2023",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cfa2917b"
+}
